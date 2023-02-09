@@ -1,0 +1,101 @@
+#banner {
+	background-image: url("images/valtellina.jpg");
+	height: 450px;
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	padding: 50px 0;
+}
+
+#Valtellina {
+	font-family: "Kokonor", sans-serif;
+	font-size: 50px;
+	text-align: left;
+	color: whitesmoke;
+}
+
+#description{
+	font-family: "Arial", sans-serif;
+	font-size: 15px;
+	color: white;
+	opacity: .8;
+}
+
+#discover{
+	background: seagreen;
+	color: white;
+	border-radius: 10px;
+	border: none;
+	display: block;
+	margin-right: 10px;
+	padding: 15px;
+	min-height: 20px;
+	min-width: 120px;
+}
+
+#works{
+	font-family: "Kokonor", sans-serif;
+	font-size: 30px;
+	text-align: center;
+}
+
+#cards {
+	display: flex;
+  	justify-content: space-between;
+  	margin-bottom: 30px;
+  	flex-wrap: wrap;
+}
+
+#food{
+	width: 200px;
+	border-radius: 3px;
+	box-shadow: 0 0 5px;
+	text-align: center;
+	padding: 20px;
+	border: 1px solid;
+}
+
+#pizz{
+	width: 200px;
+	margin-top: 50px;
+	display: inline-block;
+	margin: 10px 0px;
+}
+
+#Food{
+	font-family: "Kokonor", sans-serif;
+	font-size: 18px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#fooddes {
+	font-family: "Kokonor", sans-serif;
+	font-size: 10px;
+	text-align: left;
+	line-height: 1.5;
+	opacity: .5;
+}
+
+#footer {
+	text-align: center;
+  	padding: 60px;
+  	background-color: lightgreen;
+}
+
+#logo {
+	width: 50px;
+	display: block;
+	border-radius: 50%;
+	display: inline-block;
+	margin: 0px 10px;
+}
+
+#end{
+	font-family: "Kokonor", sans-serif;
+	font-size: 12px;
+	margin-left: auto;
+	margin-right: auto;
+	opacity: 0.3;
+	margin-top: 10px;
+}
